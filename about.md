@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Solving Real World Problems**
 
-- 🌱 I’m currently learning **Both Front-End & Back-End Web Development**
-
 - 👨‍💻 All of my projects are available at [https://eugenedev.netlify.app/](https://eugenedev.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@eugenegabriel.ke](https://medium.com/@eugenegabriel.ke)
