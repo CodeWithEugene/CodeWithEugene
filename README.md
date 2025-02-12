@@ -32,5 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewitheugene&show_icons=true&locale=en" alt="codewitheugene" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewitheugene&" alt="codewitheugene" /></p>
-
