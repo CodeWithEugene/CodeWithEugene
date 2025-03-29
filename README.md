@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Solving Real World Problems**
 
-- 👨‍💻 All of my projects are available at [https://eugenedev.netlify.app/](https://eugenedev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://eugenedev.netlify.app/](https://eugeniuss.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@eugenegabriel.ke](https://medium.com/@eugenegabriel.ke)
 
