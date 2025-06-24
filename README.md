@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/CodeWithEugene/animation.gif)](https://eugenedev.netlify.app/) 
+
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/CodeWithEugene/animation.gif" alt="Animated Banner" />
