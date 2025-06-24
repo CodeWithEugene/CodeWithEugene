@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Welcome Gif" width="400" autoplay loop />
+    <img src="animation.gif" alt="Animated banner" />
 </p>
 
 
