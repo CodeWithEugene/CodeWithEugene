@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/nba-jalen-williams-j-dub-dreams-to-reality-FANBsM1EUacVqdxhxj)](https://eugenedev.netlify.app/) 
+[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://eugenedev.netlify.app/) 
 
 
 <h1 align="center">Hi 👋, I'm Eugene Gabriel</h1>
