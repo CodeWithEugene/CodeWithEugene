@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/CodeWithEugene/CodeWithEugene/main/assets/animation.gif)](https://eugenedev.netlify.app/) 
+[![MasterHead](https://raw.githubusercontent.com/CodeWithEugene/main/assets/animation.gif)](https://eugenedev.netlify.app/) 
 
 
 <h1 align="center">Hi 👋, I'm Eugene Gabriel</h1>
