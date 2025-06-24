@@ -1,8 +1,5 @@
+[![MasterHead](https://raw.githubusercontent.com/CodeWithEugene/CodeWithEugene/main/assets/animation.gif)](https://eugenedev.netlify.app/) 
 
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/CodeWithEugene/animation.gif" alt="Animated Banner" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Eugene Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
