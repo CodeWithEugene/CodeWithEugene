@@ -1,12 +1,5 @@
-[![MasterHead](https://www.youtube.com/watch?v=XIIrJa7ShOE)](https://eugenedev.netlify.app/) 
-
 <p align="center">
-    <a href="https://youtu.be/XIIrJa7ShOE" target="_blank">
-        <img width="560" height="315" src="https://img.youtube.com/vi/XIIrJa7ShOE/0.jpg" alt="Watch on YouTube"/>
-    </a>
-</p>
-<p align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/XIIrJa7ShOE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Welcome Gif" width="400" autoplay loop />
 </p>
 
 
