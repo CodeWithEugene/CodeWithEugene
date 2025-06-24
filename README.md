@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/CodeWithEugene/main/assets/animation.gif)](https://eugenedev.netlify.app/) 
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9jeGZtOGpoaG5iajVhbmExYW1kYWlxZmVrcW1mY2k5OXA3emNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C060iA3evDax43xUPt/giphy.gif)](https://eugenedev.netlify.app/) 
 
 
 <h1 align="center">Hi 👋, I'm Eugene Gabriel</h1>
