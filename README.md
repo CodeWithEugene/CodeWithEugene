@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://eugenedev.netlify.app/) 
+[![MasterHead](https://www.canva.com/design/DAGrRbWjbG0/h9VrO0ii9dO2XTFk-WD3kQ/watch?utm_content=DAGrRbWjbG0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1f06ad761e)](https://eugenedev.netlify.app/) 
 
 
 <h1 align="center">Hi 👋, I'm Eugene Gabriel</h1>
