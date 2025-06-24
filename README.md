@@ -1,5 +1,7 @@
 [![MasterHead](https://www.youtube.com/watch?v=XIIrJa7ShOE)](https://eugenedev.netlify.app/) 
 
+[Watch my intro video on YouTube!](https://youtu.be/XIIrJa7ShOE)
+
 
 <h1 align="center">Hi 👋, I'm Eugene Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
