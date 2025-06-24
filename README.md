@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif/)](https://eugenedev.netlify.app/)
+[![MasterHead](https://www.canva.com/design/DAGrRUan1pg/nlZFG_9MsK6iwzYYs5Ab0w/edit?utm_content=DAGrRUan1pg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://eugenedev.netlify.app/)
 <h1 align="center">Hi 👋, I'm Eugene Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
