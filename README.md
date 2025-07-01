@@ -16,9 +16,9 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@eugenegabriel.ke)
 
-- 💬 Ask me about *Websites & WebApps*
+- 📫 Reach me via E-Mail at *eugenegabriel.ke@gmail.com*
 
-- 📫 How to reach me *eugenegabriel.ke@gmail.com*
+- 💬 Ask me about *Websites & WebApps*
 
 - ⚡ Fun fact *My favorite coding language changes depending on what snacks I’m eating!*
 
