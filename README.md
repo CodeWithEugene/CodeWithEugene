@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on *Solving Real World Problems*
 
-- 👨‍💻 All of my projects are available at [https://eugenedev.netlify.app/](https://eugeniuss.netlify.app/)
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://eugeniuss.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@eugenegabriel.ke](https://medium.com/@eugenegabriel.ke)
+- 📝 I regularly write articles on [Medium](https://medium.com/@eugenegabriel.ke)
 
 - 💬 Ask me about *Websites & WebApps*
 
