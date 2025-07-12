@@ -5,11 +5,16 @@
 
 <h1 align="center">Hi 👋, I'm Eugene Gabriel</h1>
 <h3 align="center">A passionate UI/UX and Frontend Developer from Nairobi, Kenya</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codewitheugene&label=Profile%20views&color=0e75b6&style=flat" alt="codewitheugene" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=codewitheugene&label=Profile%20views&color=0e75b6&style=flat" alt="codewitheugene" /> 
+    <img src="https://img.shields.io/github/followers/codewitheugene?label=Followers&style=flat&color=brightgreen" alt="followers" />
+    <img src="https://img.shields.io/github/stars/codewitheugene?label=Stars&style=flat&color=yellow" alt="stars" />
+    <img src="https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=flat" alt="experience" />
+    <img src="https://img.shields.io/badge/Projects-50%2B-red?style=flat" alt="projects" />
+</p>
 
 <p align="center">
-<a href="https://github.com/codewitheugene/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewitheugene&row=1&column=6&theme=darkhub" alt="trophy" /></a>
+<a href="https://github.com/codewitheugene/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewitheugene&row=1&column=6&theme=tokyonight" alt="trophy" /></a>
 </p>
 
 <p align="center">
