@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codewitheugene&label=Profile%20views&color=0e75b6&style=flat" alt="codewitheugene" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codewitheugene)](https://github.com/codewitheugene/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewitheugene&row=2&column=3)](https://github.com/codewitheugene/github-profile-trophy)
 
 - 🔭 I’m currently working on *Solving Real World Problems*
 
