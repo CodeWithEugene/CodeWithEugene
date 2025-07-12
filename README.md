@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewitheugene&label=Profile%20views&color=0e75b6&style=flat" alt="codewitheugene" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewitheugene" alt="codewitheugene" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=codewitheugene&theme=algolia
 
 - 🔭 I’m currently working on *Solving Real World Problems*
 
