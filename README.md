@@ -12,7 +12,10 @@
 <a href="https://github.com/codewitheugene/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewitheugene&row=1&column=6&theme=darkhub" alt="trophy" /></a>
 </p>
 
-- 🔭 I’m currently working on Solving Real World Problems. 👨‍💻 All of my projects are available at [Personal Portfolio](https://eugeniuss.netlify.app/) and 📝 I regularly write articles on [Medium](https://medium.com/@eugenegabriel.ke). Feel free to 📫 reach out to me via E-Mail at eugenegabriel.ke@gmail.com and you can 💬 Ask me about Websites & WebApps.⚡ Fun fact My favorite coding language changes depending on what snacks I’m eating!
+<p align="center">
+I'm currently working on Solving Real World Problems. All of my projects are available on this repository and here: <a href="https://eugeniuss.netlify.app/">Personal Portfolio</a> and
+I regularly write articles on <a href="https://medium.com/@eugenegabriel.ke">Medium</a>. Feel free to reach out to me via E-Mail at eugenegabriel.ke@gmail.com.<br>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
