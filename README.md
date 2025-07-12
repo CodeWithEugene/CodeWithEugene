@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/codewitheugene/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewitheugene&row=1&column=6&theme=tokyonight" alt="trophy" /></a>
+<a href="https://github.com/codewitheugene/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewitheugene&row=1&column=6&theme=tokyonight&margin-w=15" alt="trophy" /></a>
 </p>
 
 <p align="center">
