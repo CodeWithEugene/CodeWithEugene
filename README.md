@@ -3,8 +3,8 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Eugene Gabriel</h1>
-<h3 align="center">A passionate UI/UX and Frontend Developer from Nairobi, Kenya</h3>
+<h1 align="center">Hi 👋, I'm Eugene Mutembei.</h1>
+<h3 align="center">A passionate UI/UX and Frontend Developer from Nairobi, Kenya.</h3>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=codewitheugene&label=Profile%20views&color=0e75b6&style=flat" alt="codewitheugene" /> 
     <img src="https://img.shields.io/github/followers/codewitheugene?label=Followers&style=flat&color=brightgreen" alt="followers" />
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-I'm currently working on Solving Real World Problems. All of my projects are available on this repository and here: <a href="https://eugeniuss.netlify.app/">Personal Portfolio</a> and
+I'm currently working on Solving Real World Problems using technology. All of my projects are available on this repository and here: <a href="https://eugeniuss.netlify.app/">Personal Portfolio</a> and
 I regularly write articles on <a href="https://medium.com/@eugenegabriel.ke">Medium</a>. Feel free to reach out to me via E-Mail at eugenegabriel.ke@gmail.com.<br>
 </p>
 
