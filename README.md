@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Eugene Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewitheugene&label=Profile%20views&color=0e75b6&style=flat" alt="codewitheugene" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codewitheugene&label=Profile%20views&color=0e75b6&style=flat" alt="codewitheugene" /> </p>
 
 https://github-profile-trophy.vercel.app/?username=codewitheugene&theme=algolia
 
