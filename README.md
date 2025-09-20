@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-I'm currently working on <b>Solving Real World Problems using technology</b>. All of my projects are available on this repository and here: <a href="https://eugeniuss.netlify.app/">Personal Portfolio</a> and
+I'm currently working on <b>Solving Real World Problems using technology</b>. All of my projects are available on this repository and here: <a href="https://codewitheugene.top/">Personal Portfolio</a> and
 I regularly write articles on <a href="https://medium.com/@eugenegabriel.ke">Medium</a>. Feel free to reach out to me via E-Mail at eugenegabriel.ke@gmail.com.<br>
 </p>
 
