@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="./animation.gif" alt="Intro animation" style="width:100%; max-width: 800px; border-radius: 12px; margin-bottom: 16px;" />
+<img src="./animation.gif" alt="Intro animation"/>
 
 <!-- Quick profile stats -->
 ![Years of Experience](https://img.shields.io/badge/Experience-5%2B%20Years-blueviolet?style=for-the-badge)
