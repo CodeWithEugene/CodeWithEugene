@@ -4,8 +4,6 @@
 <img src="./animation.gif" alt="Intro animation" style="width:100%; max-width: 800px; border-radius: 12px; margin-bottom: 16px;" />
 
 <!-- Quick profile stats -->
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=codewitheugene&label=Profile%20Views&icon=0&color=1)](https://visitcount.itsvg.in)
 ![Years of Experience](https://img.shields.io/badge/Experience-5%2B%20Years-blueviolet?style=for-the-badge)
 ![Projects Shipped](https://img.shields.io/badge/Projects-150%2B-success?style=for-the-badge)
 ![Happy Clients](https://img.shields.io/badge/Happy%20Clients-80%2B-brightgreen?style=for-the-badge)
