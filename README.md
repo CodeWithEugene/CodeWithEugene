@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="./animation.mp4" autoplay loop muted playsinline style="width:100%; max-width: 100%; border-radius: 12px; margin-bottom: 16px;"></video>
+<img src="./Green Futuristic Tech Cyber Security Video.gif" alt="Intro animation" style="width:100%; max-width: 100%; border-radius: 12px; margin-bottom: 16px;" />
 
 # Hi There!
 I am Eugene Mutembei, a **impact** and **results-driven** **Frontend Developer**, **UI/UX Designer**, and **Web3 Enthusiast** with a strong foundation in Mathematics and Computer Science, passionate about solving real-world problems through technology.<br>
@@ -16,7 +16,7 @@ I am Eugene Mutembei, a **impact** and **results-driven** **Frontend Developer**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewitheugene&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codewitheugene&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=codewitheugene&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://visitcount.itsvg.in/api?id=codewitheugene&icon=0&color=1)](https://visitcount.itsvg.in)
 
