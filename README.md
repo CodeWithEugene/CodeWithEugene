@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Green Futuristic Tech Cyber Security Video.gif" alt="Intro animation" style="width:100%; max-width: 100%; border-radius: 12px; margin-bottom: 16px;" />
+<video src="animation.mp4" autoplay loop muted playsinline controls style="width:100%; max-width: 800px; border-radius: 12px; margin-bottom: 16px;"></video>
 
 # Hi There!
 I am Eugene Mutembei, a **impact** and **results-driven** **Frontend Developer**, **UI/UX Designer**, and **Web3 Enthusiast** with a strong foundation in Mathematics and Computer Science, passionate about solving real-world problems through technology.<br>
