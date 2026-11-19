@@ -10,13 +10,11 @@
   <img src="assets/coding.gif" width="420" alt="Developer coding at two monitors">
 </p>
 
-## About me
+<h2 align="center">About me</h2>
 
-I build products that solve real problems in health, finance, agriculture and civic tech across Africa. I work at [Technetium Kenya](https://www.technetium.co.ke/) and I'm based in Nairobi, Kenya.
-
-- I build with Web2, Web3, UI/UX, data and AI
-- I love hackathons and have taken first place at many of them with my teams
-- I speak about turning coursework into real skills and careers
+<p align="center">
+I am a versatile Software Engineer and Startup Founder with comprehensive expertise in full-stack development, AI/ML systems, and cloud infrastructure. With a strong foundation in Mathematics and Computer Science, I architect and deploy scalable, impact-driven software solutions across health-tech, civic-tech, and distributed data systems. I am currently pursuing a Masters in Artificial Intelligence and my technical stack bridges modern frontend frameworks (React, Next.js, Tailwind CSS) with robust backend and AI technologies (Python, Node.js, TensorFlow, PyTorch, LLMs). As a founder and technical leader, I excel at driving engineering strategy, building automated data pipelines, and transforming complex architectural challenges into high-performance, maintainable software.
+</p>
 
 ## Things I've built
 
