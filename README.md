@@ -29,6 +29,47 @@ Ssup! I solve problems through code and technology. I am based in Nairobi, Kenya
 </table>
 </div>
 
+<h2 align="center">Featured projects</h2>
+
+<div align="center">
+<table>
+  <tr align="center">
+    <td width="33%" valign="top">
+      <a href="https://www.medibora.com/"><img src="assets/projects/medibora.jpg" alt="MediBora website preview"></a><br>
+      <a href="https://www.medibora.com/"><b>MediBora</b></a><br>
+      <sub>AI-powered maternal health platform with continuous monitoring and early risk detection</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.skillssync.xyz/"><img src="assets/projects/skillssync.jpg" alt="SkillsSync website preview"></a><br>
+      <a href="https://www.skillssync.xyz/"><b>SkillsSync</b></a><br>
+      <sub>AI engine that turns coursework into verified career readiness evidence</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.bece.africa/"><img src="assets/projects/bece.jpg" alt="BECE website preview"></a><br>
+      <a href="https://www.bece.africa/"><b>BECE</b></a><br>
+      <sub>Beyond Engineering Center of Excellence: practical skills, mentorship and community for African engineers</sub>
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="33%" valign="top">
+      <a href="https://tutela.medibora.com/"><img src="assets/projects/tutela.jpg" alt="Tutela website preview"></a><br>
+      <a href="https://tutela.medibora.com/"><b>Tutela</b></a><br>
+      <sub>AI wearable safety device with silent alerts, secure evidence and fast community response</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.technetium.co.ke/"><img src="assets/projects/technetium.jpg" alt="Technetium website preview"></a><br>
+      <a href="https://www.technetium.co.ke/"><b>Technetium</b></a><br>
+      <sub>Custom software, web, mobile and AI solutions for businesses across Kenya</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://kuchenrezepteltd.com/"><img src="assets/projects/kuchen.jpg" alt="Kuchen Rezepte website preview"></a><br>
+      <a href="https://kuchenrezepteltd.com/"><b>Kuchen Rezepte</b></a><br>
+      <sub>Sustainable commercial kitchens and solar cold rooms in Kenya</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 <h2 align="center">Tech stack</h2>
 
 <div align="center">
