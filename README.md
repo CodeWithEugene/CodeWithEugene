@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-Ssup! I solve problems through code and technology. I am based in Nairobi, Kenya and I turn real-world challenges in health, civic life, finance and education into software that works for the people who use it, combining engineering, AI research and Web3 to make the world a better place.
+Ssup! My name is Eugene and I solve problems through code and technology. I am based in Nairobi, Kenya and I turn real-world challenges in health, civic life, finance and education into software that works for the people who use it, combining engineering, AI research and Web3 to make the world a better place. Welcome to my GitHub portfolio! Have fun poking around 🥳.
 </p>
 
 <h2 align="center">What I do</h2>
