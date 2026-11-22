@@ -77,6 +77,7 @@ Ssup! My name is Eugene and I solve problems through code and technology. I am b
   <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,ts,js,solidity" alt="Languages"></td></tr>
   <tr><td><b>AI and data</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and data"></td></tr>
   <tr><td><b>Web</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="Web"></td></tr>
+  <tr><td><b>Web3</b></td><td><img src="https://skillicons.dev/icons?i=solidity,ipfs" alt="Web3"><br><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"> <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge" alt="Hardhat"> <img src="https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge" alt="Foundry"> <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white" alt="ethers.js"> <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge" alt="MetaMask"></td></tr>
   <tr><td><b>Data, cloud and tools</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,linux,git,figma" alt="Data, cloud and tools"></td></tr>
 </table>
 </div>
